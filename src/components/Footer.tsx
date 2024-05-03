@@ -1,4 +1,6 @@
-
+import { FaFacebook } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 export default function Footer() {
     return (
@@ -51,24 +53,24 @@ export default function Footer() {
                 </div>
                 <div>
                     <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
-                    <div className="flex space-x-4">
+                    <div className="flex space-x-4 text-3xl">
                         <a
                             href="#"
-                            className="hover:text-white transition-colors duration-300"
+                            className="hover:text-blue-500 transition-colors duration-300"
                         >
-                            Facebook
+                            <FaFacebook />
                         </a>
                         <a
                             href="#"
                             className="hover:text-white transition-colors duration-300"
                         >
-                            Twitter
+                            <FaXTwitter />
                         </a>
                         <a
                             href="#"
-                            className="hover:text-white transition-colors duration-300"
+                            className="hover:text-pink-500 transition-colors duration-300"
                         >
-                            Instagram
+                            <FaInstagram />
                         </a>
                     </div>
                 </div>
