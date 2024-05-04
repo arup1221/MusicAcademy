@@ -17,7 +17,7 @@ export default function webinar() {
             <div className='flex flex-col justify-center items-center'>
                 <div className='text-center'>
                     <h1 className='text-4xl sm:text-5xl font-bold'>
-                        All Webinars
+                        All Webinars ({musicWebinars.length})
                     </h1>
 
                 </div>
