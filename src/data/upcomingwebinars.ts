@@ -43,3 +43,70 @@ export const featuredWebinars = [
       isFeatured: true,
     },
   ];
+
+
+  export const musicWebinars = [
+    {
+      id: 1,
+      title: 'Introduction to Guitar Playing',
+      description: 'Begin your journey into the world of guitar playing with this introductory webinar.',
+    },
+    {
+      id: 2,
+      title: 'Piano for Beginners',
+      description: 'Learn the basics of piano playing and music theory in this beginner-friendly webinar.',
+    },
+    {
+      id: 3,
+      title: 'Vocal Warm-Up Techniques',
+      description: 'Discover effective vocal warm-up techniques to improve your singing performance.',
+    },
+    {
+      id: 4,
+      title: 'Drumming Essentials',
+      description: 'Master the essentials of drumming techniques and rhythm patterns.',
+    },
+    {
+      id: 5,
+      title: 'Bass Guitar Fundamentals',
+      description: 'Explore the fundamentals of bass guitar playing and groove techniques.',
+    },
+    {
+      id: 6,
+      title: 'Music Theory for Songwriters',
+      description: 'Deepen your understanding of music theory and its application in songwriting.',
+    },
+    {
+      id: 7,
+      title: 'Advanced Vocal Techniques',
+      description: 'Take your vocal skills to the next level with advanced techniques and exercises.',
+    },
+    {
+      id: 8,
+      title: 'Jazz Improvisation Workshop',
+      description: 'Learn the art of jazz improvisation and soloing in this interactive workshop.',
+    },
+    {
+      id: 9,
+      title: 'Electronic Music Production',
+      description: 'Explore the world of electronic music production and beat making techniques.',
+    },
+    {
+      id: 10,
+      title: 'Classical Music Appreciation',
+      description: 'Discover the beauty of classical music and its rich history in this webinar.',
+    },
+    {
+      id: 11,
+      title: 'Music Composition Masterclass',
+      description: 'Learn advanced techniques and strategies for music composition from industry experts.',
+    },
+    {
+      id: 12,
+      title: 'Guitar Soloing Techniques',
+      description: 'Master the art of guitar soloing with advanced techniques and improvisation methods.',
+    },
+  ];
+  
+ 
+  
